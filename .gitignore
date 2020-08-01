@@ -1,6 +1,6 @@
 # ---- ignore special files written during config setup
 .idea*
-
+*.uasset
 
 # compiled python files
 *.py[co]
