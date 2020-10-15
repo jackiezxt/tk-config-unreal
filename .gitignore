@@ -1,6 +1,17 @@
 # ---- ignore special files written during config setup
+<<<<<<< HEAD
 .idea*
-*.uasset
+
+=======
+
+core/app_store.yml
+core/install_location.yml
+core/interpreter_*.cfg
+core/pipeline_configuration.yml
+core/shotgun.yml
+tk-metadata
+
+>>>>>>> parent of 0f0d585... Update .gitignore
 
 # compiled python files
 *.py[co]
@@ -30,5 +41,3 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
-hooks/tk-multi-publish2/tk-maya/unreal/resources/4.25/turntable/Content/turntable/level/turntable_BuiltData.uasset
-hooks/tk-multi-publish2/tk-maya/unreal/resources/4.25/turntable/Content/turntable/level/turntable.umap
