@@ -32,3 +32,4 @@ pip-log.txt
 .mr.developer.cfg
 hooks/tk-multi-publish2/tk-maya/unreal/resources/4.25/turntable/Content/turntable/level/turntable_BuiltData.uasset
 hooks/tk-multi-publish2/tk-maya/unreal/resources/4.25/turntable/Content/turntable/level/turntable.umap
+*.umap
